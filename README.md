@@ -7,7 +7,7 @@ O objetivo é gerar dúvida: seria natural ou completamente criado por IA? Este 
 
 ## 🤖 Tecnologias Utilizadas
 
-- Runway (versão gratuita limitada)
+- RunwayML (versão gratuita limitada)
 
 ## 🧐 Processo de Criação
 Escrevi um roteiro de 12 segundos com afirmações absurdas, mas plausíveis.
@@ -22,4 +22,9 @@ Avatar realista + narração que simula um depoimento de atleta.
 ## 💭 Reflexão
 ficou bem "Natty" conveso, mas da pra melhorar explorando outras tecnologias 😂
 
-```
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a548f27b-5a22-4bed-9f98-5b829ea6b898" />
+
+
+
+
